@@ -1,0 +1,37 @@
+body {
+	background-image: url("بک 7.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box {
+	width: 90%;
+	height: 700px;
+	margin-top: 903px;
+	margin-left: 50px;
+	position: relative;
+}
+.item {
+	width: 260px;
+	height: 260px;
+	position: absolute;
+}
+.ins {
+	top: 10px;
+    right: 5px;
+}
+.wat {
+	top: 10px;
+    left: 25px;
+}
+.tel {
+	top: 224px;
+    left: 159px;
+}
+.pon {
+	right: 150px;
+    top: 220px;
+}
+.eml {
+	top: 430px;
+    left: 303px;
+}
